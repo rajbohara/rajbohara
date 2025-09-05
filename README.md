@@ -45,7 +45,7 @@
 - Order tracking + inventory management  
 - Secure login with **Clerk** & image storage with **Cloudinary**  
 - **Tech:** React, Node.js, Express.js, MongoDB, Tailwind CSS  
-🔗 [GitHub Repo](https://github.com/rajbohara/TulsiMarbles-2) | [Live Demo](https://tulsi-marbles-2-5qaw.vercel.app/)  
+🔗 [GitHub Repo](https://github.com/rajbohara/TulsiMarbles-2) | [Live Demo](https://tulsi-marbles-2.vercel.app/)  
 
 ---
 
