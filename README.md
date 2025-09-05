@@ -10,7 +10,7 @@
 - 💻 Skilled in **React, Node.js, Express.js, MongoDB, C++ (DSA & OOP)**  
 - 🔐 Experience with **authentication (JWT, Clerk), REST APIs, and Cloudinary integrations**  
 - 🌍 Love building **real-world projects** that solve problems  
-- 🤝 Open to **collaborations, open-source contributions, and internships**  
+- 🤝 Open to **collaborations, open-source contributions, internships and full-time roles**  
 
 ---
 
